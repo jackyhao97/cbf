@@ -26,4 +26,5 @@
   echo $sim_ab . " dan " . $sim_ac;
 ?>
 
+<!-- Calculator Cosine -->
 <!-- https://www.omnicalculator.com/math/cosine-similarity -->
