@@ -25,3 +25,5 @@
   $sim_ac = CosineSimilarity::calc($ratings['User C'], $ratings['User D']); // 0.66285976669375
   echo $sim_ab . " dan " . $sim_ac;
 ?>
+
+<!-- https://www.omnicalculator.com/math/cosine-similarity -->
